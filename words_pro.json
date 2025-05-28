@@ -1,0 +1,579 @@
+[
+  {
+    "ko_word": "감안하다",
+    "jp_word": "勘案する",
+    "jp_meaning": "状況などを考慮すること"
+  },
+  {
+    "ko_word": "개연성",
+    "jp_word": "蓋然性",
+    "jp_meaning": "それらしい可能性"
+  },
+  {
+    "ko_word": "계기",
+    "jp_word": "契機",
+    "jp_meaning": "ある出来事を始めるきっかけ"
+  },
+  {
+    "ko_word": "고려하다",
+    "jp_word": "考慮する",
+    "jp_meaning": "物事を考えに入れて判断すること"
+  },
+  {
+    "ko_word": "공감하다",
+    "jp_word": "共感する",
+    "jp_meaning": "同じ気持ちを感じること"
+  },
+  {
+    "ko_word": "공정하다",
+    "jp_word": "公正だ",
+    "jp_meaning": "かたよらず正しいこと"
+  },
+  {
+    "ko_word": "과도하다",
+    "jp_word": "過度だ",
+    "jp_meaning": "やりすぎている状態"
+  },
+  {
+    "ko_word": "관건",
+    "jp_word": "鍵",
+    "jp_meaning": "最も重要な要素"
+  },
+  {
+    "ko_word": "구체적이다",
+    "jp_word": "具体的だ",
+    "jp_meaning": "はっきりしていること"
+  },
+  {
+    "ko_word": "권장하다",
+    "jp_word": "勧奨する",
+    "jp_meaning": "よいとすすめること"
+  },
+  {
+    "ko_word": "기여하다",
+    "jp_word": "寄与する",
+    "jp_meaning": "役に立つように貢献すること"
+  },
+  {
+    "ko_word": "납득하다",
+    "jp_word": "納得する",
+    "jp_meaning": "理解して受け入れること"
+  },
+  {
+    "ko_word": "다루다",
+    "jp_word": "扱う",
+    "jp_meaning": "物事をテーマにしたり処理したりすること"
+  },
+  {
+    "ko_word": "대처하다",
+    "jp_word": "対処する",
+    "jp_meaning": "問題や状況に対応すること"
+  },
+  {
+    "ko_word": "대응하다",
+    "jp_word": "対応する",
+    "jp_meaning": "適切に反応すること"
+  },
+  {
+    "ko_word": "도입하다",
+    "jp_word": "導入する",
+    "jp_meaning": "新しい技術や制度を取り入れること"
+  },
+  {
+    "ko_word": "동의하다",
+    "jp_word": "同意する",
+    "jp_meaning": "同じ考えを持つこと"
+  },
+  {
+    "ko_word": "동일하다",
+    "jp_word": "同一だ",
+    "jp_meaning": "まったく同じであること"
+  },
+  {
+    "ko_word": "명확하다",
+    "jp_word": "明確だ",
+    "jp_meaning": "はっきりしていて分かりやすいこと"
+  },
+  {
+    "ko_word": "바람직하다",
+    "jp_word": "望ましい",
+    "jp_meaning": "理想的であること"
+  },
+  {
+    "ko_word": "배려하다",
+    "jp_word": "配慮する",
+    "jp_meaning": "他人を思いやること"
+  },
+  {
+    "ko_word": "변경하다",
+    "jp_word": "変更する",
+    "jp_meaning": "予定や内容などを変えること"
+  },
+  {
+    "ko_word": "보완하다",
+    "jp_word": "補完する",
+    "jp_meaning": "足りない部分を補うこと"
+  },
+  {
+    "ko_word": "부합하다",
+    "jp_word": "符合する",
+    "jp_meaning": "一致すること"
+  },
+  {
+    "ko_word": "사소하다",
+    "jp_word": "些細だ",
+    "jp_meaning": "重要でない、小さなこと"
+  },
+  {
+    "ko_word": "상기하다",
+    "jp_word": "想起する",
+    "jp_meaning": "以前のことを思い出すこと"
+  },
+  {
+    "ko_word": "성과",
+    "jp_word": "成果",
+    "jp_meaning": "努力の結果として得られるもの"
+  },
+  {
+    "ko_word": "소통하다",
+    "jp_word": "疎通する",
+    "jp_meaning": "意思や気持ちを通じ合わせること"
+  },
+  {
+    "ko_word": "수용하다",
+    "jp_word": "受容する",
+    "jp_meaning": "受け入れること"
+  },
+  {
+    "ko_word": "신뢰하다",
+    "jp_word": "信頼する",
+    "jp_meaning": "信じて頼ること"
+  },
+  {
+    "ko_word": "실현하다",
+    "jp_word": "実現する",
+    "jp_meaning": "現実にすること"
+  },
+  {
+    "ko_word": "약속하다",
+    "jp_word": "約束する",
+    "jp_meaning": "何かを決めて約束すること"
+  },
+  {
+    "ko_word": "연기하다",
+    "jp_word": "延期する",
+    "jp_meaning": "予定を後ろにずらすこと"
+  },
+  {
+    "ko_word": "영향",
+    "jp_word": "影響",
+    "jp_meaning": "他のものに及ぼす作用"
+  },
+  {
+    "ko_word": "예방하다",
+    "jp_word": "予防する",
+    "jp_meaning": "前もって防ぐこと"
+  },
+  {
+    "ko_word": "유지하다",
+    "jp_word": "維持する",
+    "jp_meaning": "状態を保つこと"
+  },
+  {
+    "ko_word": "이의",
+    "jp_word": "異議",
+    "jp_meaning": "反対の意見"
+  },
+  {
+    "ko_word": "일관성",
+    "jp_word": "一貫性",
+    "jp_meaning": "ぶれずに一貫していること"
+  },
+  {
+    "ko_word": "일시적이다",
+    "jp_word": "一時的だ",
+    "jp_meaning": "短い間だけのこと"
+  },
+  {
+    "ko_word": "임시",
+    "jp_word": "臨時",
+    "jp_meaning": "一時的に設けられたもの"
+  },
+  {
+    "ko_word": "자제하다",
+    "jp_word": "自制する",
+    "jp_meaning": "自分の行動や感情を抑えること"
+  },
+  {
+    "ko_word": "적절하다",
+    "jp_word": "適切だ",
+    "jp_meaning": "ちょうどよく合っていること"
+  },
+  {
+    "ko_word": "정당하다",
+    "jp_word": "正当だ",
+    "jp_meaning": "道理に合って正しいこと"
+  },
+  {
+    "ko_word": "조정하다",
+    "jp_word": "調整する",
+    "jp_meaning": "うまく合うように整えること"
+  },
+  {
+    "ko_word": "중시하다",
+    "jp_word": "重視する",
+    "jp_meaning": "重要とみなすこと"
+  },
+  {
+    "ko_word": "지양하다",
+    "jp_word": "止揚する／控える",
+    "jp_meaning": "やめること、避けること"
+  },
+  {
+    "ko_word": "집착하다",
+    "jp_word": "執着する",
+    "jp_meaning": "過剰にこだわること"
+  },
+  {
+    "ko_word": "차단하다",
+    "jp_word": "遮断する",
+    "jp_meaning": "遮って止めること"
+  },
+  {
+    "ko_word": "창의적이다",
+    "jp_word": "創意的だ",
+    "jp_meaning": "新しいアイデアを出せること"
+  },
+  {
+    "ko_word": "추진하다",
+    "jp_word": "推進する",
+    "jp_meaning": "物事を積極的に進めること"
+  }
+  {"ko_word": "전환하다", 
+  "jp_word": "転換する",
+   "jp_meaning": "別の方向に変えること"
+  },
+  {"ko_word": "정확하다",
+   "jp_word": "正確だ",
+    "jp_meaning": "間違いがなく正しいこと"},
+  {"ko_word": "조사하다",
+   "jp_word": "調査する",
+    "jp_meaning": "詳しく調べること"},
+  {"ko_word": "존중하다",
+   "jp_word": "尊重する",
+    "jp_meaning": "相手を大切に思うこと"},
+  {"ko_word": "줄이다",
+   "jp_word": "減らす",
+    "jp_meaning": "量や程度を少なくすること"},
+  {"ko_word": "증가하다",
+   "jp_word": "増加する",
+    "jp_meaning": "量や数が多くなること"},
+  {"ko_word": "지속하다",
+   "jp_word": "持続する",
+    "jp_meaning": "長く続けること"},
+  {"ko_word": "참여하다",
+   "jp_word": "参加する",
+    "jp_meaning": "活動などに加わること"},
+  {"ko_word": "책임지다",
+   "jp_word": "責任を持つ",
+    "jp_meaning": "結果に対して責任を持つこと"},
+  {"ko_word": "청구하다",
+   "jp_word": "請求する",
+    "jp_meaning": "支払いなどを求めること"},
+  {"ko_word": "체계적이다",
+   "jp_word": "体系的だ",
+    "jp_meaning": "整理されてまとまっていること"},
+  {"ko_word": "추가하다",
+   "jp_word": "追加する",
+    "jp_meaning": "足して加えること"},
+  {"ko_word": "출현하다",
+   "jp_word": "出現する",
+    "jp_meaning": "新しく現れること"},
+  {"ko_word": "치유하다", "jp_word": "治癒する", "jp_meaning": "病気や心を癒すこと"},
+  {"ko_word": "통합하다", "jp_word": "統合する", "jp_meaning": "一つにまとめること"},
+  {"ko_word": "폐지하다", "jp_word": "廃止する", "jp_meaning": "制度などをやめること"},
+  {"ko_word": "확대하다", "jp_word": "拡大する", "jp_meaning": "範囲や規模を大きくすること"},
+  {"ko_word": "확립하다", "jp_word": "確立する", "jp_meaning": "しっかりと打ち立てること"},
+  {"ko_word": "활용하다", "jp_word": "活用する", "jp_meaning": "うまく使うこと"},
+  {"ko_word": "횡단하다", "jp_word": "横断する", "jp_meaning": "道などを横に渡ること"},
+  {"ko_word": "흐름", "jp_word": "流れ", "jp_meaning": "物事の進み方"},
+  {"ko_word": "희생하다", "jp_word": "犠牲にする", "jp_meaning": "自分を犠牲にして何かのために尽くすこと"},
+  {"ko_word": "감소하다", "jp_word": "減少する", "jp_meaning": "数や量が減ること"},
+  {"ko_word": "간과하다", "jp_word": "見落とす", "jp_meaning": "重要なことを見逃すこと"},
+  {"ko_word": "강조하다", "jp_word": "強調する", "jp_meaning": "特に強く示すこと"},
+  {"ko_word": "공헌하다", "jp_word": "貢献する", "jp_meaning": "役立つことをする"},
+  {"ko_word": "규정하다", "jp_word": "規定する", "jp_meaning": "一定の決まりを作ること"},
+  {"ko_word": "기피하다", "jp_word": "忌避する", "jp_meaning": "嫌がって避けること"},
+  {"ko_word": "논증하다", "jp_word": "論証する", "jp_meaning": "論理的に証明すること"},
+  {"ko_word": "도전하다", "jp_word": "挑戦する", "jp_meaning": "難しいことに挑むこと"},
+  {"ko_word": "무시하다", "jp_word": "無視する", "jp_meaning": "存在しないように扱うこと"},
+  {"ko_word": "반영하다", "jp_word": "反映する", "jp_meaning": "状態や内容を映し出すこと"},
+  {"ko_word": "분배하다", "jp_word": "分配する", "jp_meaning": "均等に分けること"},
+  {"ko_word": "비판하다", "jp_word": "批判する", "jp_meaning": "悪い点を指摘すること"},
+  {"ko_word": "사실", "jp_word": "事実", "jp_meaning": "実際に起こったこと"},
+  {"ko_word": "생략하다", "jp_word": "省略する", "jp_meaning": "省いて短くすること"},
+  {"ko_word": "선정하다", "jp_word": "選定する", "jp_meaning": "選んで決めること"},
+  {"ko_word": "소요되다", "jp_word": "所要される", "jp_meaning": "必要とされること"},
+  {"ko_word": "숙지하다", "jp_word": "熟知する", "jp_meaning": "十分によく知っていること"},
+  {"ko_word": "신청하다", "jp_word": "申請する", "jp_meaning": "公式に申し込むこと"},
+  {"ko_word": "압도하다", "jp_word": "圧倒する", "jp_meaning": "非常に強くて相手を上回ること"},
+  {"ko_word": "애매하다", "jp_word": "曖昧だ", "jp_meaning": "はっきりしないこと"},
+  {"ko_word": "요약하다", "jp_word": "要約する", "jp_meaning": "重要な点だけをまとめること"},
+  {"ko_word": "위반하다", "jp_word": "違反する", "jp_meaning": "規則などに従わないこと"},
+  {"ko_word": "이해관계", "jp_word": "利害関係", "jp_meaning": "利益と損失に関係すること"},
+  {"ko_word": "일반화하다", "jp_word": "一般化する", "jp_meaning": "広く通用させること"},
+  {"ko_word": "절차", "jp_word": "手続き", "jp_meaning": "順を追って行うこと"},
+  {"ko_word": "정책", "jp_word": "政策", "jp_meaning": "国家や団体の計画や方針"},
+  {"ko_word": "제한하다", "jp_word": "制限する", "jp_meaning": "範囲を決めて限ること"},
+  {"ko_word": "차이점", "jp_word": "相違点", "jp_meaning": "違っているところ"}
+  {
+    "ko_word": "개선하다",
+    "jp_word": "改善する",
+    "jp_meaning": "悪い点を直してよりよくすること"
+  },
+  {
+    "ko_word": "거론하다",
+    "jp_word": "言及する",
+    "jp_meaning": "話題として取り上げること"
+  },
+  {
+    "ko_word": "검토하다",
+    "jp_word": "検討する",
+    "jp_meaning": "詳しく調べて考えること"
+  },
+  {
+    "ko_word": "견해",
+    "jp_word": "見解",
+    "jp_meaning": "物事に対する考えや意見"
+  },
+  {
+    "ko_word": "경시하다",
+    "jp_word": "軽視する",
+    "jp_meaning": "軽く見て重要視しないこと"
+  },
+  {
+    "ko_word": "계획적이다",
+    "jp_word": "計画的だ",
+    "jp_meaning": "あらかじめ計画していること"
+  },
+  {
+    "ko_word": "공식적이다",
+    "jp_word": "公式的だ",
+    "jp_meaning": "正式で公的なこと"
+  },
+  {
+    "ko_word": "과소평가하다",
+    "jp_word": "過小評価する",
+    "jp_meaning": "実際より低く評価すること"
+  },
+  {
+    "ko_word": "기대하다",
+    "jp_word": "期待する",
+    "jp_meaning": "将来に望みを持つこと"
+  },
+  {
+    "ko_word": "기준",
+    "jp_word": "基準",
+    "jp_meaning": "判断や行動の元になるもの"
+  },
+  {
+    "ko_word": "납부하다",
+    "jp_word": "納付する",
+    "jp_meaning": "お金を支払うこと"
+  },
+  {
+    "ko_word": "노력하다",
+    "jp_word": "努力する",
+    "jp_meaning": "目標のために頑張ること"
+  },
+  {
+    "ko_word": "논의하다",
+    "jp_word": "論議する",
+    "jp_meaning": "意見を出して議論すること"
+  },
+  {
+    "ko_word": "다양성",
+    "jp_word": "多様性",
+    "jp_meaning": "いろいろな種類や形があること"
+  },
+  {
+    "ko_word": "대비하다",
+    "jp_word": "対比する・備える",
+    "jp_meaning": "比べる、または準備すること"
+  },
+  {
+    "ko_word": "독립적이다",
+    "jp_word": "独立的だ",
+    "jp_meaning": "他に頼らず一人でできること"
+  },
+  {
+    "ko_word": "만족하다",
+    "jp_word": "満足する",
+    "jp_meaning": "十分に足りて心地よく感じること"
+  },
+  {
+    "ko_word": "모색하다",
+    "jp_word": "模索する",
+    "jp_meaning": "解決策などを探すこと"
+  },
+  {
+    "ko_word": "문제점",
+    "jp_word": "問題点",
+    "jp_meaning": "問題となる部分"
+  },
+  {
+    "ko_word": "반복하다",
+    "jp_word": "繰り返す",
+    "jp_meaning": "同じことを何度もすること"
+  },
+  {
+    "ko_word": "방안",
+    "jp_word": "方策",
+    "jp_meaning": "やり方、解決方法"
+  },
+  {
+    "ko_word": "보장하다",
+    "jp_word": "保障する",
+    "jp_meaning": "安全や権利などを守ること"
+  },
+  {
+    "ko_word": "분석하다",
+    "jp_word": "分析する",
+    "jp_meaning": "詳しく調べて要素を明らかにすること"
+  },
+  {
+    "ko_word": "불가피하다",
+    "jp_word": "避けられない",
+    "jp_meaning": "どうしても避けられないこと"
+  },
+  {
+    "ko_word": "비교하다",
+    "jp_word": "比較する",
+    "jp_meaning": "違いなどを見るために並べること"
+  },
+  {
+    "ko_word": "사례",
+    "jp_word": "事例",
+    "jp_meaning": "具体的な例"
+  },
+  {
+    "ko_word": "상세하다",
+    "jp_word": "詳細だ",
+    "jp_meaning": "細かく詳しいこと"
+  },
+  {
+    "ko_word": "설명하다",
+    "jp_word": "説明する",
+    "jp_meaning": "よく分かるように話すこと"
+  },
+  {
+    "ko_word": "소극적이다",
+    "jp_word": "消極的だ",
+    "jp_meaning": "やる気がない、控えめな態度"
+  },
+  {
+    "ko_word": "수단",
+    "jp_word": "手段",
+    "jp_meaning": "目的を達成するための方法"
+  },
+  {
+    "ko_word": "신속하다",
+    "jp_word": "迅速だ",
+    "jp_meaning": "とても速いこと"
+  },
+  {
+    "ko_word": "실제",
+    "jp_word": "実際",
+    "jp_meaning": "本当の現実の状態"
+  },
+  {
+    "ko_word": "안정적이다",
+    "jp_word": "安定的だ",
+    "jp_meaning": "変化が少なく落ち着いていること"
+  },
+  {
+    "ko_word": "양해하다",
+    "jp_word": "了承する",
+    "jp_meaning": "事情を理解して許すこと"
+  },
+  {
+    "ko_word": "예측하다",
+    "jp_word": "予測する",
+    "jp_meaning": "将来のことを予想すること"
+  },
+  {
+    "ko_word": "오해하다",
+    "jp_word": "誤解する",
+    "jp_meaning": "間違って理解すること"
+  },
+  {
+    "ko_word": "요구하다",
+    "jp_word": "要求する",
+    "jp_meaning": "必要なことを強く求めること"
+  },
+  {
+    "ko_word": "우선순위",
+    "jp_word": "優先順位",
+    "jp_meaning": "どちらを先にやるかの順番"
+  },
+  {
+    "ko_word": "유발하다",
+    "jp_word": "誘発する",
+    "jp_meaning": "何かを引き起こすこと"
+  },
+  {
+    "ko_word": "응답하다",
+    "jp_word": "応答する",
+    "jp_meaning": "呼びかけや質問にこたえること"
+  },
+  {
+    "ko_word": "의견",
+    "jp_word": "意見",
+    "jp_meaning": "人の考えや主張"
+  },
+  {
+    "ko_word": "의도하다",
+    "jp_word": "意図する",
+    "jp_meaning": "何かをしようとする考えを持つこと"
+  },
+  {
+    "ko_word": "이루어지다",
+    "jp_word": "成し遂げられる",
+    "jp_meaning": "実現されること"
+  },
+  {
+    "ko_word": "인식하다",
+    "jp_word": "認識する",
+    "jp_meaning": "知って理解すること"
+  },
+  {
+    "ko_word": "일정하다",
+    "jp_word": "一定だ",
+    "jp_meaning": "変わらず決まっていること"
+  },
+  {
+    "ko_word": "자발적이다",
+    "jp_word": "自発的だ",
+    "jp_meaning": "自分の意思で進んで行うこと"
+  },
+  {
+    "ko_word": "작용하다",
+    "jp_word": "作用する",
+    "jp_meaning": "影響を与えること"
+  },
+  {
+    "ko_word": "장점",
+    "jp_word": "長所",
+    "jp_meaning": "良いところ"
+  },
+  {
+    "ko_word": "전달하다",
+    "jp_word": "伝達する",
+    "jp_meaning": "情報や思いを伝えること"
+  },
+  {
+    "ko_word": "제기하다",
+    "jp_word": "提起する",
+    "jp_meaning": "問題や意見などを出すこと"
+  }
+]
