@@ -248,7 +248,7 @@
     "ko_word": "추진하다",
     "jp_word": "推進する",
     "jp_meaning": "物事を積極的に進めること"
-  }
+  },
   {"ko_word": "전환하다", 
   "jp_word": "転換する",
    "jp_meaning": "別の方向に変えること"
@@ -325,7 +325,7 @@
   {"ko_word": "절차", "jp_word": "手続き", "jp_meaning": "順を追って行うこと"},
   {"ko_word": "정책", "jp_word": "政策", "jp_meaning": "国家や団体の計画や方針"},
   {"ko_word": "제한하다", "jp_word": "制限する", "jp_meaning": "範囲を決めて限ること"},
-  {"ko_word": "차이점", "jp_word": "相違点", "jp_meaning": "違っているところ"}
+  {"ko_word": "차이점", "jp_word": "相違点", "jp_meaning": "違っているところ"},
   {
     "ko_word": "개선하다",
     "jp_word": "改善する",
